@@ -21,7 +21,6 @@ public class Fibonacci {
                 }
 
             } catch (NumberFormatException e) {
-                // Sai do loop se o input não for um número
                 System.out.println("Saindo...");
                 break;
             }
